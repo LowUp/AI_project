@@ -4,3 +4,6 @@ lib/
 lib64
 pyvenv.cfg
 share/
+include/
+test/
+train/
