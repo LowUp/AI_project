@@ -8,3 +8,4 @@ include/
 test/
 train/
 images/
+test.py
