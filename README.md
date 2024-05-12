@@ -42,7 +42,8 @@ Deep learning algorithms have recently demonstrated outstanding results in image
 ### II.	Unsupervised Learning Approach
 Unsupervised learning approaches are also used in image classification, usually when the images are not labelled. Unsupervised learning techniques have also displayed good results in image classification and even outperformed supervised techniques in some rare cases (Schmarje et al. 2021).
 -	Deep Belief Networks (DBN): DBN is a deep learning algorithm that can learn a hierarchical representation of image features from unlabelled image data (Wang et al. 2021). 
-Hypothesis
+
+## Hypothesis
 The belief is that deep learning techniques will be superior to traditional machine learning techniques in classifying images.
 
 ## Introduction to the dataset
